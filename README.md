@@ -1,6 +1,6 @@
 # Malaria-Cell-Infected-Classification
 
-A GUI based application which uses a custom CNN model(Accuracy: 95.22%) to predict if an uploaded cell image is parasitized or uninfected. At first a CNN- Deep learning model was trained and tested in jupyter notebook then in order to give it a user interface, streamlit module in Python is used.
+A GUI based application which uses a custom CNN model(Accuracy: 100%) to predict if an uploaded cell image is parasitized or uninfected. At first a CNN- Deep learning model was trained and tested in jupyter notebook then in order to give it a user interface, streamlit module in Python is used.
 
 Dataset: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
